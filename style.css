@@ -61,7 +61,7 @@ header .sticky .navigation a:hover{
 }
 
 section{
-    padding: 100px 200px;
+    padding: 60px;
 }
 
 .main{
@@ -99,7 +99,7 @@ section{
 }
 
 .animated-text h3{
-    color: #4e9eff;
+    color: #d9cd8d;
     font-size: 3em;
     font-weight: 700;
     line-height: 127%;

@@ -278,10 +278,6 @@ section{
     width: 46%;
 }
 
-.skills .content .col-right .bar{
-    margin-bottom: 15px;
-    padding: 10px;
-}
 
 .skills .content .col-right .bar .info{
     display: flex;
@@ -313,18 +309,13 @@ section{
 }
 
 .skills .content .col-right .bar .html::before{
-    width: 75%;
+    width: 50%;
     background-color: #e45126;
 }
 
 .skills .content .col-right .bar .css::before{
-    width: 50%;
+    width: 30%;
     background-color: #0c73b8;
-}
-
-.skills .content .col-right .bar .javascript::before{
-    width: 80%;
-    background-color: #e3a324;
 }
 
 .skills .content .col-right .bar .python::before{
@@ -532,19 +523,6 @@ section{
     resize: none;
   }
   
-  .contact-form .input-box .send-btn{
-    color: #fff;
-    background: #3a6cf4;
-    display: inline-block;
-    font-size: 1.1em;
-    font-weight: 500;
-    text-transform: uppercase;
-    letter-spacing: 2px;
-    width: 100%;
-    border: none;
-    cursor: pointer;
-    transition: 0.5s ease;
-  }
   
   .contact-form .input-box .send-btn:hover{
     background: #235bf6;
